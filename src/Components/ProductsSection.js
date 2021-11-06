@@ -22,7 +22,7 @@ const ProductsSection = () => {
                 <Wrapper>
                     <div className = 'h-1 w-28 bg-custom-green '></div>
                     <h1 className = 'text-5xl mt-2 mb-4 font-bold'>Our Product(s)</h1>
-                    <div className = 'flex flex-col md:flex-row md:items-center md:justify-between 2xl:max-w-70p'>
+                    <div className = 'flex flex-col md:flex-row md:items-center md:justify-between xl:max-w-70p'>
                         <div className = 'group flex items-center hover:text-custom-green cursor-pointer'>
                             <div style = {{width:'128px',height:'128px'}}>
                                 <img className = 'w-full h-full rounded-full group-hover:rounded-none' src = {logoB} alt = 'logoB'></img>
