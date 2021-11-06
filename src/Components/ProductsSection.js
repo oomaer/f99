@@ -3,7 +3,7 @@ import logoB from '../logoB.png';
 
 const ProductsSection = () => {
     return(
-        <div className = 'pb-24 bg-dark' id = 'products'>
+        <div className = 'pb-24 bg-dark' id = 'ourproduct'>
 
             <section className = 'pt-24'>
                 <Wrapper>
